@@ -6,7 +6,7 @@
 The website was created just few days ago, so there is a lot of things to add and fix! :computer:
 
 
-###Elements I'm working on adding:
+### Elements I'm working on adding:
 
 
 - website theme change on background click :heavy_check_mark:
