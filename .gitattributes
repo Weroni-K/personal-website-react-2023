@@ -1,6 +1,2 @@
-*.js linguist-language=JavaScript
-*.jsx linguist-language=JavaScript
-*.css linguist-language=CSS
-*.html linguist-vendored
-/static/js/* linguist-vendored=false
-/static/css/* linguist-vendored=false
+/static/js/*.js linguist-language=JavaScript
+/static/css/*.css linguist-language=CSS
