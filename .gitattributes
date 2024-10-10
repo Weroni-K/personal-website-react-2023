@@ -1,2 +1,6 @@
 *.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
 *.css linguist-language=CSS
+*.html linguist-vendored
+/build/* linguist-vendored
+/node_modules/* linguist-vendored
